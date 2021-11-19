@@ -1,7 +1,6 @@
 # markdown-pages
 
-# H3
-IT 1600
+## IT 1600
 
 **This repository will help me do the following**
 1. Display that I understand markdown
